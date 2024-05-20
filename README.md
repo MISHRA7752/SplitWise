@@ -1,4 +1,4 @@
-Hosted on: https://splitwise-three.vercel.app/
+Hosted on: [https://splitwise-three.vercel.app/](https://split-wise-steel.vercel.app/login)
 
 [Splitwise Demo Video](https://drive.google.com/file/d/1MX_o7wHoTp8s4-oa2LvcWsxbMxcSI8Fm/view?usp=sharing)
 
